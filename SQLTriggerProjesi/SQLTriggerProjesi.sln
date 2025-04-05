@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLTriggerProjesi", "SQLTriggerProjesi\SQLTriggerProjesi.csproj", "{5F09DBC0-6544-44D1-B0C8-F9605C917A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F09DBC0-6544-44D1-B0C8-F9605C917A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F09DBC0-6544-44D1-B0C8-F9605C917A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F09DBC0-6544-44D1-B0C8-F9605C917A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F09DBC0-6544-44D1-B0C8-F9605C917A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E9AB2B-79D6-459E-8E71-E3A3B41EDED8}
+	EndGlobalSection
+EndGlobal

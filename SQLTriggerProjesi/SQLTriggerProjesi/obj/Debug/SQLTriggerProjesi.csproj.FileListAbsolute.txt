@@ -1,0 +1,10 @@
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\bin\Debug\SQLTriggerProjesi.exe.config
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\bin\Debug\SQLTriggerProjesi.exe
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\bin\Debug\SQLTriggerProjesi.pdb
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\bin\Debug\EntityFramework.dll
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\obj\Debug\SQLTriggerProjesi.csproj.AssemblyReference.cache
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\obj\Debug\SQLTriggerProjesi.csproj.CoreCompileInputs.cache
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\obj\Debug\SQLTrigg.9EDE3423.Up2Date
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\obj\Debug\SQLTriggerProjesi.exe
+C:\Github\SQLTriggerProjesi\SQLTriggerProjesi\SQLTriggerProjesi\obj\Debug\SQLTriggerProjesi.pdb
